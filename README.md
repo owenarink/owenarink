@@ -3,4 +3,5 @@
 ## Projects
 
 - [kaggle_commonsense](https://github.com/owenarink/kaggle_commonsense)
+- [repstruc](https://github.com/owenarink/repstruc)
 - [prolog-to-arduino-lcd](https://github.com/owenarink/prolog-to-arduino-lcd)
