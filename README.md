@@ -1,5 +1,3 @@
-# Owen Arink
-
 [My Computer Vision Notes](https://owenarink.github.io/computervision101uva/)
 
 ## Projects
