@@ -1,0 +1,39 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Most used languages</title>
+  <desc id="desc">Small donut chart of Owen Arink's most used public GitHub repository languages: CSS 28.57 percent, SCSS 27.84 percent, Python 21.38 percent, TypeScript 19.55 percent, other 2.66 percent.</desc>
+
+  <rect width="180" height="180" rx="18" fill="#ffffff"/>
+
+  <circle cx="70" cy="78" r="42" fill="none" stroke="#dbdbdb" stroke-width="16"/>
+  <circle cx="70" cy="78" r="42" fill="none" stroke="#563d7c" stroke-width="16" stroke-linecap="round"
+    stroke-dasharray="75.39 263.89" transform="rotate(-90 70 78)"/>
+  <circle cx="70" cy="78" r="42" fill="none" stroke="#c6538c" stroke-width="16" stroke-linecap="butt"
+    stroke-dasharray="73.46 265.81" stroke-dashoffset="-75.39" transform="rotate(-90 70 78)"/>
+  <circle cx="70" cy="78" r="42" fill="none" stroke="#3572A5" stroke-width="16" stroke-linecap="butt"
+    stroke-dasharray="56.42 282.86" stroke-dashoffset="-148.85" transform="rotate(-90 70 78)"/>
+  <circle cx="70" cy="78" r="42" fill="none" stroke="#3178c6" stroke-width="16" stroke-linecap="butt"
+    stroke-dasharray="51.59 287.68" stroke-dashoffset="-205.27" transform="rotate(-90 70 78)"/>
+  <circle cx="70" cy="78" r="42" fill="none" stroke="#6e7781" stroke-width="16" stroke-linecap="butt"
+    stroke-dasharray="7.01 332.27" stroke-dashoffset="-256.86" transform="rotate(-90 70 78)"/>
+
+  <circle cx="70" cy="78" r="24" fill="#ffffff"/>
+  <text x="70" y="74" text-anchor="middle" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">Top</text>
+  <text x="70" y="88" text-anchor="middle" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">langs</text>
+
+  <text x="18" y="148" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">Public repos</text>
+
+  <circle cx="118" cy="34" r="4" fill="#563d7c"/>
+  <text x="128" y="38" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10">CSS 28.6%</text>
+
+  <circle cx="118" cy="54" r="4" fill="#c6538c"/>
+  <text x="128" y="58" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10">SCSS 27.8%</text>
+
+  <circle cx="118" cy="74" r="4" fill="#3572A5"/>
+  <text x="128" y="78" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10">Python 21.4%</text>
+
+  <circle cx="118" cy="94" r="4" fill="#3178c6"/>
+  <text x="128" y="98" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10">TS 19.6%</text>
+
+  <circle cx="118" cy="114" r="4" fill="#6e7781"/>
+  <text x="128" y="118" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="10">Other 2.7%</text>
+</svg>
