@@ -2,6 +2,7 @@
 
 ai projects:
 - [kaggle_commonsense](https://github.com/owenarink/kaggle_commonsense)
+- [kaggle_commonsense model on Hugging Face](https://huggingface.co/owenarink/attentiontypes-commonsense)
 
 other:
 - [repstruc](https://github.com/owenarink/repstruc)
