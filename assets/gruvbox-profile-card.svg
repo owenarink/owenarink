@@ -1,0 +1,43 @@
+<svg width="920" height="520" viewBox="0 0 920 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Owen Arink Gruvbox profile card</title>
+  <desc id="desc">Gruvbox themed profile card linking to computer vision notes, kaggle_commonsense, repstruc, and prolog-to-arduino-lcd.</desc>
+
+  <rect width="920" height="520" rx="24" fill="#282828"/>
+  <rect x="18" y="18" width="884" height="484" rx="18" fill="#32302F" stroke="#504945" stroke-width="2"/>
+
+  <circle cx="76" cy="76" r="10" fill="#CC241D"/>
+  <circle cx="108" cy="76" r="10" fill="#D79921"/>
+  <circle cx="140" cy="76" r="10" fill="#98971A"/>
+
+  <text x="56" y="138" fill="#FBF1C7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="38" font-weight="700">Owen Arink</text>
+  <text x="56" y="172" fill="#D5C4A1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="18">Gruvbox-themed profile card</text>
+
+  <rect x="56" y="210" width="808" height="72" rx="14" fill="#3C3836" stroke="#504945"/>
+  <text x="80" y="238" fill="#FABD2F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700">NOTES</text>
+  <a href="https://owenarink.github.io/computervision101uva/">
+    <text x="80" y="266" fill="#83A598" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="21" font-weight="700">My Computer Vision Notes</text>
+  </a>
+  <text x="348" y="266" fill="#EBDBB2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="17">University of Amsterdam lecture notes and summaries</text>
+
+  <rect x="56" y="300" width="808" height="72" rx="14" fill="#3C3836" stroke="#504945"/>
+  <text x="80" y="328" fill="#B8BB26" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700">AI PROJECT</text>
+  <a href="https://github.com/owenarink/kaggle_commonsense">
+    <text x="80" y="356" fill="#8EC07C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="21" font-weight="700">kaggle_commonsense</text>
+  </a>
+  <text x="336" y="356" fill="#EBDBB2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="17">false-sentence repair and commonsense reasoning experiments</text>
+  <a href="https://huggingface.co/owenarink/attentiontypes-commonsense">
+    <text x="785" y="356" fill="#FE8019" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="24">🤗</text>
+  </a>
+
+  <rect x="56" y="390" width="808" height="72" rx="14" fill="#3C3836" stroke="#504945"/>
+  <text x="80" y="418" fill="#D3869B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700">TOOLS</text>
+  <a href="https://github.com/owenarink/repstruc">
+    <text x="80" y="446" fill="#D3869B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="20" font-weight="700">repstruc</text>
+  </a>
+  <text x="190" y="446" fill="#EBDBB2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16">README structure sync tool</text>
+  <text x="470" y="446" fill="#665C54" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16">|</text>
+  <a href="https://github.com/owenarink/prolog-to-arduino-lcd">
+    <text x="500" y="446" fill="#FB4934" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="20" font-weight="700">prolog-to-arduino-lcd</text>
+  </a>
+  <text x="740" y="446" fill="#EBDBB2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace" font-size="16">logic + hardware</text>
+</svg>
