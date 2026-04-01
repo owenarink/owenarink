@@ -1,0 +1,31 @@
+<svg width="290" height="220" viewBox="0 0 290 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Most used languages</title>
+  <desc id="desc">Small donut chart of Owen Arink's most used public GitHub repository languages: CSS 28.57 percent, SCSS 27.84 percent, Python 21.38 percent, TypeScript 19.55 percent, other 2.66 percent.</desc>
+
+  <circle cx="84" cy="110" r="58" fill="none" stroke="#dbdbdb" stroke-width="20"/>
+  <circle cx="84" cy="110" r="58" fill="none" stroke="#563d7c" stroke-width="20" stroke-linecap="round"
+    stroke-dasharray="104.15 364.26" transform="rotate(-90 84 110)"/>
+  <circle cx="84" cy="110" r="58" fill="none" stroke="#c6538c" stroke-width="20"
+    stroke-dasharray="101.48 366.93" stroke-dashoffset="-104.15" transform="rotate(-90 84 110)"/>
+  <circle cx="84" cy="110" r="58" fill="none" stroke="#3572A5" stroke-width="20"
+    stroke-dasharray="77.93 390.48" stroke-dashoffset="-205.63" transform="rotate(-90 84 110)"/>
+  <circle cx="84" cy="110" r="58" fill="none" stroke="#3178c6" stroke-width="20"
+    stroke-dasharray="71.27 397.14" stroke-dashoffset="-283.56" transform="rotate(-90 84 110)"/>
+  <circle cx="84" cy="110" r="58" fill="none" stroke="#6e7781" stroke-width="20"
+    stroke-dasharray="9.69 458.72" stroke-dashoffset="-354.83" transform="rotate(-90 84 110)"/>
+
+  <circle cx="188" cy="58" r="5" fill="#563d7c"/>
+  <text x="200" y="62" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12">CSS 28.6%</text>
+
+  <circle cx="188" cy="82" r="5" fill="#c6538c"/>
+  <text x="200" y="86" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12">SCSS 27.8%</text>
+
+  <circle cx="188" cy="106" r="5" fill="#3572A5"/>
+  <text x="200" y="110" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12">Python 21.4%</text>
+
+  <circle cx="188" cy="130" r="5" fill="#3178c6"/>
+  <text x="200" y="134" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12">TypeScript 19.6%</text>
+
+  <circle cx="188" cy="154" r="5" fill="#6e7781"/>
+  <text x="200" y="158" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12">Other 2.7%</text>
+</svg>
