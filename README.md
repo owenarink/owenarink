@@ -6,5 +6,5 @@
 - [prolog-to-arduino-lcd](https://github.com/owenarink/prolog-to-arduino-lcd) - Prolog-controlled Arduino LCD and logic programming project
 
 <p align="left">
-  <img src="./assets/language-donut.svg" alt="Most used GitHub languages" width="150">
+  <img src="./assets/language-donut.svg" alt="Most used GitHub languages" width="220">
 </p>
