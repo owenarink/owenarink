@@ -1,7 +1,5 @@
 - [My Computer Vision Notes](https://owenarink.github.io/computervision101uva/) - University of Amsterdam computer vision notes and lecture summaries
 
-- [DeBertaCommonSense](https://github.com/owenarink/DeBertaCommonSense) -> [🤗](https://huggingface.co/owenarink/attentiontypes-commonsense) - reproducible DeBERTa-style commonsense reasoning model
-
 - [kaggle_commonsense](https://github.com/owenarink/kaggle_commonsense) - commonsense reasoning experiments for false-sentence repair
 -> [DeBertaCommonSense](https://github.com/owenarink/DeBertaCommonSense), [🤗](https://huggingface.co/owenarink/attentiontypes-commonsense) - commonsense reasoning experiments for false-sentence repair
 
